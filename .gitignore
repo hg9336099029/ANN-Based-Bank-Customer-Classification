@@ -19,12 +19,6 @@ logs/
 .env
 *.env
 
-# --- Model / Encoder / Scaler Files ---
-*.pkl
-*.h5
-
-# --- CSV / Data Files ---
-*.csv
 
 # --- VS Code ---
 .vscode/
